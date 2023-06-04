@@ -17,5 +17,4 @@ Jupyter Notebook实践
 • Pandas是一种高效、强大、灵活且易于使用的开源数据分析和操作工具，它建立在Python之上
 • 数据操作包括数据显示、检查数据列属性、数据过滤、属性查询等
 使用Matplotlib进行数据图形的绘制
-• Matplotlib 是一个综合库，用于在 Python 中创建静态、动画和交互式可
-视化。
+• Matplotlib 是一个综合库，用于在 Python 中创建静态、动画和交互式可视化。
